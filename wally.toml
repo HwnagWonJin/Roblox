@@ -1,0 +1,12 @@
+[package]
+name = "metabuzz17/robloxscript"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+roact = "roblox/roact@1.4.4"
+Knit = "sleitnick/knit@^1.5"
+Signal = "sleitnick/signal@^1"
+Input = "sleitnick/input@^2"
+Timer = "sleitnick/timer@^1"
